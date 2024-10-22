@@ -23,3 +23,7 @@ Using ARCore and Depth API, this Android application captures the depth and surf
   * Run the App: Launch the app on an ARCore and Depth API-supported device.
   * Scan the Room: Move the device around to scan the environment, while ARCore tracks surfaces and the Depth API collects depth data.
   * View the 3D Model: The app will display a voxel grid representation of the scanned room in real-time.
+
+* It work only for supported Devices
+
+for ref:- https://developers.google.com/ar/devices
